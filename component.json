@@ -1,0 +1,14 @@
+{
+  "name": "swfobject",
+  "repo": "fredsterss/swfobject",
+  "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "lib/swfobject.js",
+  "scripts": [
+    "lib/swfobject.js"
+  ],
+  "remotes": []
+}
